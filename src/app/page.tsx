@@ -87,7 +87,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/dinner-setup-with-side-dish-salad-pickles-plates_140725-8495.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/dinner-setup-with-side-dish-salad-pickles-plates_140725-8495.jpg?_wi=1"
       imageAlt="مائدة طعام عراقية فاخرة"
       mediaAnimation="slide-up"
       avatars={[
@@ -174,7 +174,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/dinner-setup-with-side-dish-salad-pickles-plates_140725-8495.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/dinner-setup-with-side-dish-salad-pickles-plates_140725-8495.jpg?_wi=2",
           imageAlt: "grilled Iraqi lamb shish kebab platter",
         },
         {
@@ -224,7 +224,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/whole-fish-grilled-served-with-tomato-lemon-onion_114579-3761.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/whole-fish-grilled-served-with-tomato-lemon-onion_114579-3761.jpg?_wi=1",
           imageAlt: "grilled Iraqi lamb shish kebab platter",
         },
       ]}
@@ -244,7 +244,7 @@ export default function LandingPage() {
           id: "p-1",
           name: "سمك المسكوف",
           price: "80,000 د.ع",
-          imageSrc: "http://img.b2bpic.net/free-photo/whole-fish-grilled-served-with-tomato-lemon-onion_114579-3761.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/whole-fish-grilled-served-with-tomato-lemon-onion_114579-3761.jpg?_wi=2",
           imageAlt: "سمك مسكوف عراقي",
         },
         {
