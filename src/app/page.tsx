@@ -13,7 +13,7 @@ import ProductCardOne from '@/components/sections/product/ProductCardOne';
 import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
 import TestimonialCardTwo from '@/components/sections/testimonial/TestimonialCardTwo';
 import TextAbout from '@/components/sections/about/TextAbout';
-import { CookingPot, Fish, Flame, Leaf, Milk, Salad, Sparkles, Utensils, Drumstick, Bowl } from "lucide-react";
+import { CookingPot, Fish, Flame, Leaf, Milk, Salad, Sparkles, Utensils, Drumstick, Soup } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -131,7 +131,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/traditional-caucasian-sac-ici-with-fried-chicken-eggplant-potatoes-tomatoes-zucchini-served-with-lavash-parsley-turshu_114579-143.jpg",            imageAlt: "مقبلات شرق أوسطية"},
           items: [
             {
-              icon: Bowl,
+              icon: Soup,
               text: "حمص بالطحينة"},
             {
               icon: Salad,
